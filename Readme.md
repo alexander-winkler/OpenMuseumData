@@ -11,6 +11,7 @@ Please feel free to add to the list via pull request, by opening an issue or sen
 | Museum of Modern Art (MoMA) | <https://github.com/MuseumofModernArt/collection> | Github data dump, CSV and JSON | 
 | Staedel Museum | <https://sammlung.staedelmuseum.de/de/oai> | OAI-MPH |
 | Rijksmuseum | <https://data.rmuseum.nl/object-metadata/harvest/> | |
+| SMK - National Gallery of Denmark | <https://www.smk.dk/en/article/smk-api/> | API |
 
 # Aggregators
 
